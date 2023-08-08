@@ -7,6 +7,13 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+langchain = "0.0.225"
+python-dotenv = "1.0.0"
+python-box = "7.0.1"
+transformers = "4.31.0"
+ctransformers = "0.2.18"
+flask = "2.3.2"
+flask-sqlalchemy = "^3.0.5"
 
 
 [build-system]

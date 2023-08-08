@@ -1,0 +1,3 @@
+models/llama*
+src/__pycache__/
+db/llm*
